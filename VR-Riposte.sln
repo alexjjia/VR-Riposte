@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Riposte.CSharp", "VR-Riposte.CSharp.csproj", "{D772C29D-0FCE-5E62-15CC-2A5667EA75BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Riposte.CSharp.Editor", "VR-Riposte.CSharp.Editor.csproj", "{C5D74490-6952-D633-8802-3AAEED59B1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D772C29D-0FCE-5E62-15CC-2A5667EA75BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D772C29D-0FCE-5E62-15CC-2A5667EA75BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D772C29D-0FCE-5E62-15CC-2A5667EA75BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D772C29D-0FCE-5E62-15CC-2A5667EA75BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D74490-6952-D633-8802-3AAEED59B1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D74490-6952-D633-8802-3AAEED59B1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D74490-6952-D633-8802-3AAEED59B1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D74490-6952-D633-8802-3AAEED59B1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
