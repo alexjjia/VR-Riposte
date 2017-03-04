@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using UnityEngine.UI;
 public class EnemyController : MonoBehaviour {
     public float speed;
     public GameObject target;
@@ -23,5 +23,4 @@ public class EnemyController : MonoBehaviour {
     {
         this.gameObject.SetActive(false); // disables it for now; replace this with the Destroy() func once we get spawning and other kinks down.
     }
-
 }
